@@ -1,33 +1,88 @@
-CodeAlpha Calculator:-
+ 🧮 CodeAlpha Calculator
 
-*Project Overview
+ 💻 C Programming Internship Project | CodeAlpha
+A simple and user-friendly calculator developed using the **C Programming Language** as part of my CodeAlpha C Programming Internship.
 
-This is a simple calculator program developed using the C programming language as part of my CodeAlpha internship.
+ 📌 About the Project
 
--->Features
+1)This project is a basic arithmetic calculator that performs mathematical operations based on user input.
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Division by zero error handling
+2)It uses the **switch-case statement** to select and execute different operations.
 
--->Technologies Used
+✨ Features
 
-* C Programming
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* ⚠️ Division by zero error handling
+* 🔄 User-friendly input and output
+
+🛠️ Technologies Used
+
+* C Programming Language
 * Switch Case
 * Conditional Statements
+* Standard Input/Output (`stdio.h`)
 
--->How to Run
+🚀 How to Run
 
-1. Download the calculator.c file.
-2. Open it using a C compiler.
-3. Compile and run the program.
+**Step 1:- Download or clone this repository.
 
-**Author
+**Step 2:- Open the project in a C compiler.
 
-Harika Naidu Paraselli
+**Step 3:- Compile the program:
+gcc calculator.c -o calculator
 
-**Internship
+**Step 4:- Run the program.
 
-CodeAlpha – C Programming Internship
+On Windows:
+calculator.exe
+
+On Linux:
+./calculator
+
+💡 Sample Output
+SIMPLE CALCULATOR
+
+Enter first number: 20
+Enter an operator (+, -, *, /): +
+Enter second number: 10
+
+Result = 30.00
+
+
+       THANK YOU!
+
+
+📂 Project Structure
+
+CodeAlpha_Calculator:-
+-->calculator.c
+-->README.md
+
+🎯 Learning Outcomes
+
+Through this project, I learned:
+
+* Implementing arithmetic operations in C.
+* Using switch-case statements.
+* Handling user input.
+* Applying conditional statements.
+* Handling division by zero.
+* Compiling and executing C programs.
+
+👩‍💻 Author
+
+**Harika Naidu Paraselli**
+
+🎓 CodeAlpha C Programming Intern
+
+🏢 Internship
+
+**CodeAlpha – C Programming Internship**
+
+⭐ Thank you for visiting my project!
+
+If you find this project interesting, feel free to explore the source code.
+
